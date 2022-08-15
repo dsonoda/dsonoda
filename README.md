@@ -1,4 +1,5 @@
 🔭 Hi there!!  
+  
 I work as a Cloud Design, Configuration Management, MLOps and DevOps engineer. For more info, see [my curriculum vitae](https://github.com/dsonoda/curriculum_vitae)!!  
 
 - SNS: Twitter:[@d5onoda](https://twitter.com/d5onoda) / LinkedIn:[dsonoda](https://www.linkedin.com/in/dsonoda/) / Facebook: [Daisuke Sonoda](https://www.facebook.com/daisuke.sonoda.758)  
