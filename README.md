@@ -1,6 +1,6 @@
 Hi there!!  
-  
-I'm a Cloud Design, Configuration Management, MLOps and DevOps engineer. Please see [my curriculum vitae](https://github.com/dsonoda/curriculum_vitae)!!  
+I'm a Cloud Design, Configuration Management, MLOps and DevOps engineer.  
+Please see [my curriculum vitae](https://github.com/dsonoda/curriculum_vitae)!!  
 
 Twitter: [@d5onoda](https://twitter.com/d5onoda) | [LinkedIn](https://www.linkedin.com/in/dsonoda/) | [Facebook](https://www.facebook.com/daisuke.sonoda.758)  
 Blog: [Qiita](https://qiita.com/dsonoda) / [Zenn](https://zenn.dev/dsonoda)  
